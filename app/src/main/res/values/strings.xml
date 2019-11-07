@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndividProject</string>
+    <string name="task_title_hint">Enter a title for the chore.</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_solved_label">Solved</string>
+</resources>
